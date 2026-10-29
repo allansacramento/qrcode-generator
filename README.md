@@ -1,36 +1,52 @@
-QR Code Generator
-Este é um projeto simples de gerador de QR Code desenvolvido com HTML, CSS e JavaScript. A aplicação permite que o usuário insira um texto ou URL e, com um clique, gere o QR Code correspondente utilizando uma API.
+# 📱 QR Code Generator
 
-🚀 Funcionalidades
-Geração de QR Code a partir de texto ou URL<br/>
-Interface intuitiva e fácil de usar<br/>
-Responsividade para diferentes tamanhos de tela<br/>
-🛠️ Tecnologias Utilizadas<br/>
-HTML5: Estruturação do conteúdo da página<br/>
-CSS3: Estilização da interface com design simples e responsivo<br/>
-JavaScript: Manipulação de dados e integração com a API para gerar o QR Code<br/>
-API de QR Code: Geração dinâmica de QR Codes<br/>
+Um projeto simples e funcional de **gerador de QR Codes** desenvolvido com **HTML, CSS e JavaScript**.  
+A aplicação permite que o usuário insira um texto ou URL e, com apenas um clique, gere o QR Code correspondente utilizando uma API externa.
 
-🔗 Demonstração
-Você pode testar a aplicação diretamente através deste link:
-<a href="https://joaovictorlira.github.io/joaolira.github.io/">Teste aqui!<a/>
+> ℹ️ Este projeto é um **clone** do repositório original: [joaolira-dev/qrcode-generator](https://github.com/joaolira-dev/qrcode-generator.git)
 
-🔧 Instalação
+---
 
-1 - Clone este repositório:
+## 🚀 Funcionalidades
+- Geração de QR Code a partir de **texto ou URL**
+- Interface **intuitiva e fácil de usar**
+- Layout **responsivo**, adaptado para diferentes tamanhos de tela
 
-git clone https://github.com/joaolira-dev/qrcode-generator.git
+---
 
-2 - Navegue até a pasta do projeto
+## 🛠️ Tecnologias Utilizadas
+- **HTML5** → Estruturação do conteúdo da página  
+- **CSS3** → Estilização da interface com design simples e responsivo  
+- **JavaScript** → Manipulação de dados e integração com a API  
+- **API de QR Code** → Geração dinâmica dos códigos
 
-cd qr-code-generator
+---
 
-3 -  Abra o arquivo index.html no seu computador
+## 🔗 Demonstração
+Teste a aplicação diretamente pelo link:  
+👉 [Clique aqui para experimentar](https://allansacramento.github.io/qrcode-generator/)
 
-📋 Como Usar
-1 - Insira o texto ou a URL que deseja converter em QR Code.<br/>
-2 - Clique no botão "Gerar QR Code".<br/>
-3 - O QR Code será exibido na tela.<br/><br/>
+---
+
+## 🔧 Instalação
+
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/allansacramento/qrcode-generator.git```
+
+2. Navegue até a pasta do projeto
+
+    ```bash
+    cd qr-code-generator
+    ```
+
+3. Abra o arquivo index.html no seu computador
+
+---
+## 📋 Como Usar
+1. Insira o texto ou a URL que deseja converter em QR Code.
+2. Clique no botão "Gerar QR Code".
+3. O QR Code será exibido na tela.<br/><br/>
 
 
 ![Imagem do Gerador](assets/screenshot.png)
